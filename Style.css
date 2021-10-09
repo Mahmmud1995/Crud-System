@@ -1,0 +1,21 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color: blueviolet;
+}
+h1
+{
+    color:white;
+    
+}
+label{
+    color:white;
+    font-size: 20px;
+}
+th{
+    color:white;
+    font-size: 20px;
+}
+tbody{
+    color:white;
+    font-size: 20px;
+}
